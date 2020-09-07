@@ -1,0 +1,58 @@
+body{
+	background: linear-;
+    text-align: center;
+    color: white;
+}
+.form-box{
+	width: 35%;
+	margin: 30px auto;
+	background: black;
+	padding: 50px 20px;
+	text-align: center;
+}
+body .btn1{
+	width: 40%;
+	color: white;
+	background: #25E3AC;
+	margin: 10px auto;
+	padding: 8px;
+}
+body .btn2{
+	width: 40%;
+	color: white;
+	background: #3B4640;
+	margin: 10px auto;
+	padding: 8px;
+}
+form .c{
+	width:35%;
+	margin-top:20px;
+	margin-left: 0px;
+	padding: 8px;
+	outline: none;
+	border-radius: 4px;
+	background: transparent;
+	color: white;
+
+}
+form .a{
+	width: 75%;
+	margin-top:20px;
+	margin-left: 0px;
+	padding: 8px;
+	outline: none;
+	border-radius: 4px;
+	background: transparent;
+	color: white;
+}
+
+form .b{
+	width: 79%;
+	margin:20px 34px;
+	padding: 8px 50px; 
+	background: #25E3AC;
+	border-radius: 4px;
+	color: white;
+	cursor: pointer;
+	text-transform: uppercase;
+}
